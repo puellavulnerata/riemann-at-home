@@ -1,0 +1,35 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "ce77c80359c91d04",
+  "machine": {
+    "os": "Linux 7.3.4-arch1-2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 7900X3D 12-Core Processor",
+    "cores": 24
+  },
+  "started": "2026-11-23T13:04:05Z",
+  "recorded": "2026-11-24T23:49:51Z",
+  "busy_seconds": 57208,
+  "modules_compiled": 175187,
+  "bitmap_b64": "H4sIAAAAAAAC/+3BMQ0AAAACoNP+ibWHA1oAAAAAAAAAAAAAAAAAAAAAAAAAAIB3GZLmPp+LVQAA",
+  "olean_digest": "9b97ad8ad971869974c9b089136e8c990b24439e38fcc9b10e7d7066f0a0fa92",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false,
+  "export_progress": {
+    "bytes": 61570592768,
+    "seconds": 67876,
+    "left_seconds": null,
+    "peak_memory_gb": 54.33,
+    "done": false
+  }
+}

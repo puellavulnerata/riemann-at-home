@@ -1,0 +1,126 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "18acf047f7df4edc",
+  "machine": {
+    "os": "Linux 7.3.5-2-cachyos",
+    "arch": "x86_64",
+    "cpu": "AMD RYZEN AI MAX+ 395 w/ Radeon 8060S",
+    "cores": 32
+  },
+  "started": "2026-11-22T01:08:53Z",
+  "recorded": "2026-11-25T04:00:37Z",
+  "busy_seconds": 213045,
+  "modules_compiled": 160657,
+  "bitmap_b64": "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",
+  "olean_digest": "450effd8ba47388557cdb8ffe9a44564a8612345108517c1f301079336527ea1",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "crashes": [
+    {
+      "module": "Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.PEvHom",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LiftsWith",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.GaloisCommutesHeckeAction",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperTriangularHeckeReindexCoprimeUnit",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.MobToGQScalar",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.EisensteinModularTowers.TwistedEisensteinPieceTrivialCharacterEq",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.EisensteinModularTowers.IsPrimitiveRootEOmAndPowCompatible",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.Foundations.IwahoriReduction.SiegelFixedPoints.NotDvdOfCoprime",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.WeilRepresentation.One",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.ThetaBounds.ContOne",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsCocycleOfPadicLimitOfApproxCocycles",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.EisensteinModularTowers.InZlClosedAddMulAndCyclotomicGaloisStable",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.RatUnramToIntUnram",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.Foundations.IwahoriReduction.LangPolynomials.NormSubLeOne",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.KummerScalarLayerLinkOfShapiroSpecializationApprStatement",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WoConj",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypeForUp",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.FrobeniusHodgeTateLaws.AqBdPlace",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CoefSpanFinset",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.FrobeniusHodgeTateLaws.ChiQuad",
+      "code": 1,
+      "at": "2026-11-25T04:00:35Z"
+    }
+  ]
+}
